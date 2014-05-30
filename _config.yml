@@ -3,7 +3,7 @@ title: Steht alles im Wiki
 email: redaktion@steht-alles-im-wiki.de
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 baseurl: "/steht-alles-im-wiki"
-#url: "http://yourdomain.com"
+url: "http://steht-alles-im-wiki.github.io"
 
 # Build settings
 #markdown: redcarpet
