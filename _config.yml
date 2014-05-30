@@ -8,5 +8,5 @@ url: "http://yourdomain.com"
 # Build settings
 #markdown: redcarpet
 highlighter: pygments
-#markdown: kramdown
+markdown: kramdown
 permalink: pretty
