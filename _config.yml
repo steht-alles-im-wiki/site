@@ -10,3 +10,5 @@ url: "http://steht-alles-im-wiki.github.io"
 highlighter: pygments
 markdown: kramdown
 permalink: pretty
+safe: true
+lsi: false
