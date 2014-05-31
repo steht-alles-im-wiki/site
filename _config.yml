@@ -1,7 +1,8 @@
-title:            Site Title
+title:            Steht Alles Im Wiki
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+#url:              http://www.steht-alles-im-wiki.de
+#base_url:         ""
 disqus_shortname:
 
 # Owner/author information
