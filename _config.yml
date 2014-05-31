@@ -6,12 +6,12 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Markus Rebbert
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Flip mo'."
+  email:          redaktion@steht-alles-im-wiki.de
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter: mrebbert
   facebook:
   github:
   stackoverflow:
@@ -46,7 +46,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Berlin
 future:      true
 highlighter: pygments
 markdown:    kramdown
